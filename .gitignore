@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Xcode
+xcuserdata/
+.build/
+timeline.xctimeline
+playground.xcworkspace
+
+# SPM
+.swiftpm/
+Package.resolved
