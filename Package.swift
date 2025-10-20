@@ -3,7 +3,7 @@
 
 import PackageDescription
 
-let version = Version("1.38.0")
+let version = Version("1.38.1")
 let aalVersion = Version("1.3.4")
 let coreVersion = Version(version.major, version.minor, version.patch, prereleaseIdentifiers: ["noeid"])
 
@@ -12,7 +12,7 @@ let mavenUrl = "https://maven.sumsub.com/repository/maven-private"
 
 enum checksums {
 
-    static let eid  = "5bef0150abe7dd3806085263d8bfc60e3e889eee8b3bac7da922acb204c6ca11"
+    static let eid  = "d9dc0dd6b6d589ab0de1df6eeba9b71a147803bf2627061fcee4d368dde956a9"
     static let aal  = "c7fc02056555a0b5876f6ad8e91afff4fa35d5b9f204a1d83b7347bd0fc4f6b2"
 
 }
