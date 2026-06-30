@@ -3,13 +3,13 @@
 
 import PackageDescription
 
-let version = Version("1.44.0")
+let version = Version("1.45.0")
 
 let gitUrl = "https://maven.sumsub.com/repository/releases/IdensicMobileSDK-iOS/\(version)"
 let mavenUrl = "https://maven.sumsub.com/repository/maven-private"
 
 enum checksums {
-    static let eid = "96ea05c5eaf668d6081f5448e2ca98e708e0dc9caead9e1f91612bca99a2b6d7"
+    static let eid = "ff0c9f1acd5beb80eafbc2e546b2a35d0b2b248039886f66f90210c04bfc8d89"
     static let aal = "c7fc02056555a0b5876f6ad8e91afff4fa35d5b9f204a1d83b7347bd0fc4f6b2"
 }
 
